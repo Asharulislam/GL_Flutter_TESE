@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23.414" viewBox="0 0 23 23.414">
+  <g id="curved-arrow-down" transform="translate(22 1.414) rotate(90)">
+    <g id="Group_10848" data-name="Group 10848" transform="translate(0 0)">
+      <path id="Path_11175" data-name="Path 11175" d="M16,15V8A8,8,0,0,0,0,8V21" transform="translate(5 0)" fill="none" stroke="#535353" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_11176" data-name="Path 11176" d="M10,0,5,5,0,0" transform="translate(0 16)" fill="none" stroke="#535353" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
